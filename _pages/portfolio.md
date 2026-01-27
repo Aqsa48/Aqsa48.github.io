@@ -5,9 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-### Featured Project Image
-![Project Illustration](/images/user_project_img.jpeg)
-
 ## Research Projects
 
 ### [Masters Thesis: COVID-19 Genome Analysis using SPM](https://github.com/Aqsa48)
