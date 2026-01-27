@@ -1,12 +1,9 @@
 ---
-layout: default
-title: Home
+layout: home
+title: ""
+author_profile: true
 ---
 
-**Aqsa Umar**  
-PhD Student – Modeling and Data Science  
-University of Turin, Italy
+Welcome to my portfolio. I am a PhD Student in Modeling and Data Science at the University of Turin, Italy. 
 
 Research interests include AI, ML, NLP, and Bioinformatics.
-
-Email: aqsa.umar3505@gmail.com
