@@ -21,7 +21,7 @@ repository               : "Aqsa48/Aqsa48.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "" # "https://abirharrasse.github.io/images/photo_abir.jpeg"
+  avatar           : "/images/profile.jpeg"
   name             : "Aqsa Umar"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, Modeling and Data Science"
