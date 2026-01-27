@@ -1,0 +1,13 @@
+venv/
+reference_repo/
+*.zip
+*.pdf
+extract_resume.py
+resume_text.txt
+talkmap.ipynb
+talkmap.py
+temp_zip_content/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
