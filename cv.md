@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "CV"
+permalink: /cv/
 author_profile: true
 ---
 
 Below you can find my Curriculum Vitae. 
-
 
 ## Education
 - **PhD in Modeling and Data Science** (Incoming)  
