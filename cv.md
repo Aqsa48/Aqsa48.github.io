@@ -1,13 +1,12 @@
 ---
 layout: single
 title: "CV"
-permalink: /cv/
 author_profile: true
 ---
 
 Below you can find my Curriculum Vitae. 
 
-#<div style="text-align: center; margin: 30px 0;">
+# <div style="text-align: center; margin: 30px 0;">
 #  <a href="/files/cv/resume.pdf" class="btn btn--primary btn--large" style="text-decoration: none; font-size: 1.2em; padding: 15px 30px; border-radius: 8px;">
  #   <i class="fas fa-download"></i> Download CV (PDF)
 # </a>
