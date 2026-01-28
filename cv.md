@@ -5,13 +5,13 @@ permalink: /cv/
 author_profile: true
 ---
 
-Below you can find my Curriculum Vitae. Use the button to download the full PDF version.
+Below you can find my Curriculum Vitae. 
 
-<div style="text-align: center; margin: 30px 0;">
-  <a href="/files/cv/resume.pdf" class="btn btn--primary btn--large" style="text-decoration: none; font-size: 1.2em; padding: 15px 30px; border-radius: 8px;">
-    <i class="fas fa-download"></i> Download CV (PDF)
-  </a>
-</div>
+#<div style="text-align: center; margin: 30px 0;">
+#  <a href="/files/cv/resume.pdf" class="btn btn--primary btn--large" style="text-decoration: none; font-size: 1.2em; padding: 15px 30px; border-radius: 8px;">
+ #   <i class="fas fa-download"></i> Download CV (PDF)
+# </a>
+# </div>
 
 ## Education
 - **PhD in Modeling and Data Science** (Incoming)  
@@ -57,8 +57,4 @@ Below you can find my Curriculum Vitae. Use the button to download the full PDF 
 - Developed a website using the MERN stack.
 - Mentored junior developers in various programming languages.
 
----
 
-<iframe src="/files/cv/resume.pdf" width="100%" height="800px" style="border: 1px solid #ccc; margin-top: 40px;">
-    This browser does not support PDFs. Please download the PDF to view it: [Download PDF](/files/cv/resume.pdf).
-</iframe>
